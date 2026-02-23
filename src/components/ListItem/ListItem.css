@@ -1,0 +1,16 @@
+.list-item-wrapper {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.list-item {
+  list-style: none;
+  text-align: left;
+}
+
+.completed-list-item-wrapper {
+  border: 2px solid green;
+}
